@@ -1,0 +1,30 @@
+.content{
+  width: 800px;
+  height: 500px;
+}
+ img{
+  width: 480px;
+  height: 180px;
+  margin: 0 auto;
+}
+.descript_block{
+  display: block;
+  
+}
+.photo{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+.About{
+  margin-left: 60px;
+ background-color:  white;
+}
+.Foto{
+  position: relative;
+}
+.vision:hover{
+  z-index: 20;
+display: block;
+color: rebeccapurple;
+}

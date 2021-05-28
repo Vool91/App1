@@ -1,0 +1,17 @@
+
+.nav{
+  background-color: #87DFD6 ;
+grid-area:n;
+padding: 20px;
+
+}
+.item{
+  color: black;
+}
+.item a{
+  color: black;
+}
+
+.item a.active{
+  color: #2F9296;
+}

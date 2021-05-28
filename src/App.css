@@ -1,0 +1,21 @@
+*{
+  
+}
+.main-wrapper{
+    display: grid;
+    width: 1200px;
+    margin: 0 auto;
+    grid-template-areas: "h h "
+    "n s";
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+    grid-gap: 10px;
+}
+
+.main-wrapper-content{
+   
+        background-color: #DFF5F2;
+      grid-area: s;
+      padding: 5px;
+
+}

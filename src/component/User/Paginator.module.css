@@ -1,0 +1,21 @@
+.selectPage {
+  font-weight: bold;
+}
+.PAgg {
+  color: black;
+}
+.App {
+  margin: 0 5px;
+}
+.leftPrev {
+  width: 40px;
+  height: 40px;
+  outline: none;
+  background: url(E:\react-it-camasutra\01first\my-app\src\assets\images\left.png)
+    no-repeat;
+}
+.rightPrev {
+  width: 40px;
+  height: 40px;
+  background: url(E:\react-it-camasutra\01first\my-app\src\assets\images\right.png);
+}

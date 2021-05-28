@@ -1,0 +1,19 @@
+.img_ava{
+  height: 80px;
+  width: 70px;
+}
+.context{
+ display: grid;
+bottom: 0px;
+left: 0px;
+}
+.selectPage{
+  font-weight: bold;
+}
+.load{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 100px;
+  width: 100px;
+}
